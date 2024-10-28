@@ -6,12 +6,6 @@
 
 Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbot [Autoresbot](https://autoresbot.com/download)
 
-## Informasi Versi
-
-- **Versi:** JPM 1.2
-- **Update Terakhir:** 25 Agustus 2024, 00:00 WIB
-- **Website:** [autoresbot.com](https://autoresbot.com)
-
 ## Fitur
 
 - menu
@@ -45,11 +39,3 @@ Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbo
 Ketik .menu untuk menampilkan menu
 
 - hanya nomor yang di izinkan yang dapat chat bot, (setting di file config.js)
-
-## Kontak
-
-Jika Anda memiliki pertanyaan, saran, atau masalah, silakan hubungi saya di [autoresbot@gmail.com](mailto:autoresbot@gmail.com) atau buka issue di repositori ini.
-
----
-
-Terima kasih telah mengunjungi dan menggunakan proyek ini!
