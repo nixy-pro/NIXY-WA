@@ -3,7 +3,7 @@ const numberAllowed = ['6285246154386','62xxxxxxxxx']; // Nomor yang diizinkan u
 
 global.prefix = ['.', '#']; // Daftar prefix
 
-global.jeda = 2000; // 5 detik jeda pengiriman untuk pushkontak atau broadcast
+global.jeda = 100; // 5 detik jeda pengiriman untuk pushkontak atau broadcast
 
 global.name_script = 'Script Jpm';
 
